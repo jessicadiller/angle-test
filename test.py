@@ -5,8 +5,8 @@ ang = angletest.angletest()
 
 ang.toggle_led1()
 
-# while(True):
-    angleBytes = ang.get_angle()
-    angle = int(angleBytes[0]+int(angleBytes[1])*256
-    print "Bin: {0:016b} Dec: {0:0d}".format(angle)
+#while(True):
+angleBytes = ang.get_angle()
+angle = int(angleBytes[0])+int(angleBytes[1])*256
+print 'Bin: {0:016b} Dec: {0:0d}'.format(angle)
 #    time.sleep(.02)
