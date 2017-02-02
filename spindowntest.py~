@@ -21,4 +21,4 @@ while(True):
     #print in angle code in binary and hex
     #the decimal section is a fractional number between 0 and 1 
     time.sleep(.001)
-    #pause for .001 amount of seconds
+    #pause for .01 amount of seconds
