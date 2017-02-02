@@ -12,3 +12,20 @@
 
 # Report
 Link: https://docs.google.com/document/d/1PNxYx9_6WaipWweWNPi4hqg35z6xHi5sqVako8drCYA/edit 
+
+
+
+
+Q: Why are EE's always up to date?
+
+
+
+
+
+
+
+
+
+
+
+A: Because they are "current specialists."
